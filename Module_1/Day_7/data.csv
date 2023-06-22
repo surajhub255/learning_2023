@@ -1,0 +1,4 @@
+EntryNo,sensorNo,Temperature,Humidity,Light,timestamp
+1,s1,36.50,100,50,10:30:50
+2,s3,25.50,100,50,10:30:55
+3,s2,-6.60,100,10,10:31:00
